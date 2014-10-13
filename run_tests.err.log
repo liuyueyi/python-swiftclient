@@ -1,0 +1,2 @@
+py27 create: /home/wzb/python-swiftclient/.tox/py27
+py27 installdeps: -r/home/wzb/python-swiftclient/requirements.txt, -r/home/wzb/python-swiftclient/test-requirements.txt
